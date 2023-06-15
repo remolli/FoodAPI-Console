@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FoodAPI_Console.Models;
 
 namespace FoodAPI_Console
 {
@@ -17,7 +18,7 @@ namespace FoodAPI_Console
         }
         public async Task<string> GetJsonString(string link)
         {
-            var response = await httpClient.GetAsync(link + "?apiKey=" + apiKey);
+            var response = await httpClient.GetAsync(link + "&apiKey=" + apiKey);
             var jsonString = await response.Content.ReadAsStringAsync();
             return jsonString;
         }
