@@ -1,0 +1,17 @@
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\bin\Debug\net7.0\FoodAPI-Console.exe
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\bin\Debug\net7.0\FoodAPI-Console.deps.json
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\bin\Debug\net7.0\FoodAPI-Console.runtimeconfig.json
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\bin\Debug\net7.0\FoodAPI-Console.dll
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\bin\Debug\net7.0\FoodAPI-Console.pdb
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.AssemblyInfo.cs
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.csproj.CopyComplete
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.dll
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\refint\FoodAPI-Console.dll
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.pdb
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\FoodAPI-Console.genruntimeconfig.cache
+C:\Users\Win10\Desktop\GITHUB\FoodAPI-Console\obj\Debug\net7.0\ref\FoodAPI-Console.dll
