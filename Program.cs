@@ -7,7 +7,7 @@ FoodAPI api = new FoodAPI(apiKey);
 while(true)
 {
     Console.ForegroundColor = ConsoleColor.Magenta;
-    Console.Write("Escreva o nome de um produto: ");
+    Console.Write("Insert a grocery product name: ");
     Console.ForegroundColor = ConsoleColor.Yellow;
     string query = Console.ReadLine();
 
