@@ -4,8 +4,21 @@ const string apiKey = "3a422ff82d024ed489e4d0b9ca4bcb59";
 
 FoodAPI api = new FoodAPI(apiKey);
 
-while(true)
+
+while (true)
 {
+    Console.WriteLine();
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.WriteLine("""   /----------------------------\""");
+    Console.WriteLine();
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine("""   |     Welcome to FoodAPI     |""");
+    Console.WriteLine();
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.WriteLine("""   \----------------------------/""");
+    Console.WriteLine();
+    Console.WriteLine();
+
     Console.ForegroundColor = ConsoleColor.Magenta;
     Console.Write("Insert a grocery product name: ");
     Console.ForegroundColor = ConsoleColor.Yellow;
@@ -31,6 +44,6 @@ while(true)
     Console.WriteLine("Offset: " + search.Offset);
     Console.WriteLine("Number: " + search.Number);
     Console.WriteLine("Type: " + search.Type);
-
-    Console.WriteLine();
+    Console.ReadKey();
+    Console.Clear();
 }
