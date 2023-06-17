@@ -17,9 +17,9 @@ while(true)
     {
         Console.WriteLine();
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine(item.Id);
-        Console.WriteLine(item.Title);
-        Console.WriteLine(item.ImageType);
+        Console.WriteLine("Id: " + item.Id);
+        Console.WriteLine("Title: " + item.Title);
+        Console.WriteLine("Image Type: " + item.ImageType);
         Console.ForegroundColor = ConsoleColor.Gray;
         Console.WriteLine();
         Console.WriteLine(new string('-', 30));
