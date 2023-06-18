@@ -44,6 +44,8 @@ while (true)
     Console.WriteLine("Offset: " + search.Offset);
     Console.WriteLine("Number: " + search.Number);
     Console.WriteLine("Type: " + search.Type);
+    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine("Press any key...");
     Console.ReadKey();
     Console.Clear();
 }
